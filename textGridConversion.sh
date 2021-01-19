@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Script for extracting transcriptions from the TextGrid files
-
+# Sishir Kalita
+# Date: Jan 19, 2021
 rm -r main.csv
 
 folderName=/home/administrator/Works/CWorks/Raguvaran/TT_out
